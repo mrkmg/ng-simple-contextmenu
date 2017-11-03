@@ -1,8 +1,8 @@
 {
   "name": "ng-simple-contextmenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple to use contextmenu plugin for Angular 1.x applications",
-  "main": "index.js",
+  "main": "ng-simple-contextmenu.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
