@@ -43,7 +43,7 @@ As an attribute
 The context menu will attempt to detect the size of the element and ensure that it
 fits on screen. The only styles applied to the element are positioning.
 
-To see a full featured example, see this Fiddle.
+To see a demo, see this [JS Fiddle](https://jsfiddle.net/vgLmj2d2/).
 
 
 License
